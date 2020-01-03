@@ -1,0 +1,9 @@
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\bin\Release\VoiceRecorder.Audio.dll
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\bin\Release\VoiceRecorder.Audio.pdb
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\bin\Release\NAudio.dll
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\bin\Release\NAudio.xml
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\obj\Release\VoiceRecorder.Audio.csprojAssemblyReference.cache
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\obj\Release\VoiceRecorder.Audio.csproj.CoreCompileInputs.cache
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\obj\Release\VoiceRecorder.Audio.csproj.CopyComplete
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\obj\Release\VoiceRecorder.Audio.dll
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\obj\Release\VoiceRecorder.Audio.pdb

@@ -1,0 +1,15 @@
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\bin\Debug\VoiceRecorder.Tests.dll
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\bin\Debug\VoiceRecorder.Tests.pdb
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\bin\Debug\NAudio.dll
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\bin\Debug\nunit.framework.dll
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\bin\Debug\nunit.mocks.dll
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\bin\Debug\pnunit.framework.dll
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\bin\Debug\VoiceRecorder.Audio.dll
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\bin\Debug\VoiceRecorder.Audio.pdb
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\bin\Debug\NAudio.xml
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\bin\Debug\nunit.framework.xml
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\obj\Debug\VoiceRecorder.Tests.csprojAssemblyReference.cache
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\obj\Debug\VoiceRecorder.Tests.csproj.CoreCompileInputs.cache
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\obj\Debug\VoiceRecorder.Tests.csproj.CopyComplete
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\obj\Debug\VoiceRecorder.Tests.dll
+C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Tests\obj\Debug\VoiceRecorder.Tests.pdb

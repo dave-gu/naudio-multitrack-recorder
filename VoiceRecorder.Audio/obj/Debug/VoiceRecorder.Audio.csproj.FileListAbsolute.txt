@@ -7,3 +7,11 @@ C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\obj\Debug\VoiceR
 C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csproj.CopyComplete
 C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
 C:\Users\deadass\source\repos\voicerecorder\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb
+C:\Projects\voicerecorder\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.dll
+C:\Projects\voicerecorder\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.pdb
+C:\Projects\voicerecorder\VoiceRecorder.Audio\bin\Debug\NAudio.dll
+C:\Projects\voicerecorder\VoiceRecorder.Audio\bin\Debug\NAudio.xml
+C:\Projects\voicerecorder\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojAssemblyReference.cache
+C:\Projects\voicerecorder\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csproj.CopyComplete
+C:\Projects\voicerecorder\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
+C:\Projects\voicerecorder\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb

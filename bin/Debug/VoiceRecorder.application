@@ -11,14 +11,14 @@
     <deploymentProvider codebase="http://voicerecorder.codeplex.com/releases/clickonce/VoiceRecorder.application" />
   </deployment>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="VoiceRecorder.exe.manifest" size="8259">
+    <dependentAssembly dependencyType="install" codebase="VoiceRecorder.exe.manifest" size="8257">
       <assemblyIdentity name="VoiceRecorder.exe" version="0.2.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>E7n9GyBK+sfGHhyQbd6/1GW7o0I=</dsig:DigestValue>
+        <dsig:DigestValue>hQVZXqixUfWKAGmmiviMppuz9LA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
